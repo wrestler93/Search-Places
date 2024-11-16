@@ -1,0 +1,27 @@
+.places-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .places-table th,
+  .places-table td {
+    padding: 8px;
+    border: 1px solid rgb(222, 226, 230);
+  }
+  
+  .places-table th {
+    font-weight: 700;
+    text-align: left;
+  }
+  
+  .spinner {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .no-results {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 16px;
+  }
+  
